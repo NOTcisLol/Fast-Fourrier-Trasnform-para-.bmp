@@ -1,0 +1,2 @@
+Todos os itens dessa pasta será escaneados e se for um .bmp ele ira processar
+coloque as imagens .bmp nesse diretório para que seja processada pelo programa
